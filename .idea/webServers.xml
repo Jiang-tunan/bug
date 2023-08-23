@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fa4d974f-f392-4efa-8320-d6a9ec0a6380" name="24-zhul">
+        <fileTransfer rootFolder="/home/zhul/uuid" accessType="SFTP" host="192.168.31.24" port="22" sshConfigId="c77859ae-d023-4c57-8a3c-5380bf58227c" sshConfig="zhul@192.168.31.24:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

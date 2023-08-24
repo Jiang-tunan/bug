@@ -1,6 +1,9 @@
 cmake_minimum_required(VERSION 3.26)
-project(uuid C)
+project(bug C)
 
-set(CMAKE_C_STANDARD 17)
+set(CMAKE_C_STANDARD 11)
 
-add_executable(uuid main.c)
+include_directories(.)
+
+add_executable(bug
+        main.c)

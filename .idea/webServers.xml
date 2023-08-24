@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fa4d974f-f392-4efa-8320-d6a9ec0a6380" name="24-zhul">
-        <fileTransfer rootFolder="/home/zhul/uuid" accessType="SFTP" host="192.168.31.24" port="22" sshConfigId="c77859ae-d023-4c57-8a3c-5380bf58227c" sshConfig="zhul@192.168.31.24:22 password">
+      <webServer id="51baa75a-db0f-4415-ba40-400a9056c5eb" name="24-zhul">
+        <fileTransfer rootFolder="/home/zhul" accessType="SFTP" host="192.168.31.24" port="22" sshConfigId="9495d484-f40b-45f4-91ea-325ceb609e7b" sshConfig="zhul@192.168.31.24:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

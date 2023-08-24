@@ -5,8 +5,11 @@
       <paths name="24-zhul">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/project/bug" local="$PROJECT_DIR$" web="/" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="cmake-build-debug" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
